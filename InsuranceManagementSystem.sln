@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceManagementSystem", "InsuranceManagementSystem.csproj", "{34B6F08E-ADA5-4BC7-8710-5FF15AD5DAA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceManagementSystem.Tests", "..\InsuranceManagementSystem.Tests\InsuranceManagementSystem.Tests.csproj", "{FCDB027C-6D78-4F65-8DFA-845847BF1C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34B6F08E-ADA5-4BC7-8710-5FF15AD5DAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B6F08E-ADA5-4BC7-8710-5FF15AD5DAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B6F08E-ADA5-4BC7-8710-5FF15AD5DAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B6F08E-ADA5-4BC7-8710-5FF15AD5DAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDB027C-6D78-4F65-8DFA-845847BF1C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDB027C-6D78-4F65-8DFA-845847BF1C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDB027C-6D78-4F65-8DFA-845847BF1C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDB027C-6D78-4F65-8DFA-845847BF1C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
